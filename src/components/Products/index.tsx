@@ -1,11 +1,10 @@
 import React, { useMemo, useCallback } from "react";
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useSearchParams } from "react-router-dom";
 import {
   Search,
   Star,
   Package,
   Tag,
-  DollarSign,
   RotateCcw,
   Eye,
   Edit2,
