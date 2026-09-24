@@ -66,7 +66,7 @@ export default function LoginPage() {
       setSubmitting(false);
 
       // Redirect directly to the dashboard
-      navigate("/dashboard");
+      navigate("/products");
     },
   });
 
